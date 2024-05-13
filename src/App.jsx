@@ -21,6 +21,19 @@ const App = () => (
       SpecialOffers
     </section>
 
+    <section className="px-10 py-10">
+      CustomerReview
+    </section>
+
+    <section className="px-10">
+      Subscribe
+    </section>
+
+    <section className="px-10 py-10">
+      Footer
+    </section>
+
+
   </main>
 );
 
