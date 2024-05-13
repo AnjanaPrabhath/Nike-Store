@@ -5,20 +5,20 @@ const App = () => (
       Hero
     </section>
 
-    <section className="padding">
+    <section className="px-10 py-10">
       PopularProduct
     </section>
 
-    <section className="padding">
+    <section className="px-10">
       SuperQuality
     </section>
 
-    <section className="padding">
-      Popular Product
+    <section className="px-10 py-10">
+      Services
     </section>
 
-    <section className="padding">
-      Popular Product
+    <section className="px-10">
+      SpecialOffers
     </section>
 
   </main>
